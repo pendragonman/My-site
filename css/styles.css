@@ -1,0 +1,47 @@
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1 {
+	margin-top: 0px;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.buttom-container {
+
+}
+
+.buttom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.top-cloud{
+	position: absolute;
+	top: 50px;
+	right: 300px;
+}
